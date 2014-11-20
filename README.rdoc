@@ -1,4 +1,2 @@
-== THis is an example of what you can put into a readme file
-
-It's awesome!
+Williams pizza shop. Gluten Free Pizza.
 
